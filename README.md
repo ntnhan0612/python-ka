@@ -1,4 +1,4 @@
-# python-ka
+# python-ka (python knowledge areas)
 
 # Ubuntu
 1. Install python3
